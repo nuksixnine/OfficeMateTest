@@ -1,4 +1,3 @@
 # OfficeMateTest
 
-result is here.
-https://github.com/nuksixnine/OfficeMateTest/blob/main/report.html
+Result path: playwright2/playwright-report
